@@ -1,4 +1,4 @@
-# _Integration_
+# Integration
 
 This includes guides, and credentials on how to integrate our project to the [Oculus dashboard](https://developer.oculus.com/manage/applications/6574454922642864), and platform features.
 

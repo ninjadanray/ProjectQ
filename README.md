@@ -36,4 +36,8 @@ Open the project, then go to Package Manager to download and import the [Oculus 
 Please note that the Oculus Integration SDK is included in the gitignore to keep the repository small and avoid breaking change in the master repository. Its also possible that each one
 of us might be using different version of the SDK, and push the SDK in the repository that might break others workaround.
 
-### Happy Coding!
+ Happy Coding!
+
+![supportninja.](https://assets.website-files.com/64149f79022d0c5fc8ce46e8/64149f79022d0cd45cce4719_Support%20Ninja%20%7C%20Full%20Logo.svg "owner")
+
+#
