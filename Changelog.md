@@ -19,5 +19,5 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 ## [Unreleased]
 [unreleased]: https://github.com/ninjadanray/ProjectQ/branch/development#diff
-[0.0.1]: https://github.com/ninjadanray/ProjectQ/pull/1
+[0.0.1]: https://github.com/ninjadanray/ProjectQ/pull/2
 [0.0.0]: https://github.com/ninjadanray/ProjectQ
