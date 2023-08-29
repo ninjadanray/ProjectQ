@@ -2,7 +2,7 @@
 
 This is a Unity 2022.3.8f1 LTS project.
 
-Release version 0.0.0
+Release version 0.0.1
 
 ## Documentation
 
