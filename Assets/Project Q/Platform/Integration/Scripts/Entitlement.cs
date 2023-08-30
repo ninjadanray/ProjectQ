@@ -4,6 +4,8 @@ namespace ProjectQ.Platform.Integration {
 
     public class Entitlement : MonoBehaviour
     {
+        private bool entitlementSucceeded = false; // Flag to track entitlement status
+
         void Awake()
         {
             try
@@ -35,7 +37,12 @@ namespace ProjectQ.Platform.Integration {
             {
                 // Log the succeed entitlement check for debugging.
                 Debug.Log("You're entitled to use the app");
+                entitlementSucceeded = true; // Set the flag to true
             }
+        }
+
+        public bool HasEntitlementSucceeded() {
+            return entitlementSucceeded;
         }
 
         void Quit() {
